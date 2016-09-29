@@ -3,6 +3,7 @@
 <html>
 <head>
 <title>projetoBrasilComCiencia</title>
+<link href="../assets/css/bootstrap.css" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 
